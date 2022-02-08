@@ -10,7 +10,7 @@ inside client folder - cd client ---> npm start
 
 It will open http://localhost:3000/ 
 
-open http://localhost:3000/ in two tabs
+Now open http://localhost:3000/ in two tabs
 
 Inside Join A Chat Form,
   write one name: e.g. Hiral
