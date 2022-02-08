@@ -4,9 +4,9 @@ Used socket.io and socket.io-client to create Chat Application using ReactJS and
 
 ## Usage
 ```
-Concurrently run in both the folders
-inside server folder ---> npm start 
-inside client folder ---> npm start
+Concurrently run 'npm start' in both the folders
+inside server folder - cd server ---> npm start 
+inside client folder - cd client ---> npm start
 
 It will open http://localhost:3000/ 
 
